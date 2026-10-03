@@ -1,5 +1,11 @@
-# React Counter App
-
+# ⚛️ React Counter App
+> A Counter App built using React.js
+## 🛠️ Tech Stack
+- ⚛️ React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
 A simple and beginner-friendly **Counter App built with React.js**.
 
 ## Features
